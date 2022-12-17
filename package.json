@@ -1,0 +1,22 @@
+{
+  "name": "in_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TatyanaProhorova/in_nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TatyanaProhorova/in_nodejs/issues"
+  },
+  "homepage": "https://github.com/TatyanaProhorova/in_nodejs#readme",
+  "dependencies": {
+    "@tatyanaprohorova/uni_library_1": "^1.0.2"
+  }
+}
